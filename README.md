@@ -1,24 +1,23 @@
 # 🏅 Project & Certification Portfolio
 
 *   **Candidate:** Tushar Balraj Dengle
-*   **Contact:** tushardengle1@gmail.com
-
+*   **Contact:** neetajaylaxmi9329@gmail.com
 
 ---
 
 ## 📊 1. Applied Project Tracks
 
 ### 📈 Bloomberg Market Concepts (BMC)
-*  **Certificate PDF:** [View Bloomberg BMC Certificate](bloomberg-bmc.pdf)
+*   **Certificate PDF:** [View Bloomberg BMC Certificate](bloomberg-bmc.pdf)
 *   **Manipal Campus Immersion:** [View Manipal BMC Track Certificate](manipal-bmc-certificate.pdf)
 
 ### 🛠️ Google Project Management - Ongoing
 *   **JIRA Agile/Scrum Board Infrastructure:** [Access Live JIRA Sprint Board & Backlog Timeline](https://neetajaylaxmi9329.atlassian.net/jira/software/projects/SCRUM/boards/1/timeline?atlOrigin=eyJpIjoiYTI2NDYzZmY0OTcxNDdhYzhkYzU1ZmJmZmJiY2JiMzgiLCJwIjoiaiJ9)
-*   **CERN Enterprise Power BI Executive Dashboard:** [View CERN Power BI Dashboard Interactive Layout](CERN_PM_Executive_Dashboard)
+*   **CERN Enterprise Power BI Executive Dashboard:** [View CERN Power BI Dashboard Interactive Layout](CERN_PM_Executive_Dashboard.pbix)
 
 ### 🚊 Siemens Mobility Job Simulation (Forage)
 *   **Certificate PDF:** [View Siemens Mobility Completion Certificate](siemens-mobility-forage.pdf)
-*   **Metroville Rail Expansion Project Tracker:** [View Metroville Rail Expansion Progress Sheet](Metroville_Rail_Expansion_Project_Tracker.pdf)
+*   **Metroville Rail Expansion Project Tracker:** [View Metroville Rail Expansion Progress Sheet](Metroville Rail Expansion KPI_Framework.docx)
 *   **Metroville Urban Rail Expansion Project Compliance Document:** [View KPI Strategy & Monitoring Framework](Metroville_Urban_Rail_Expansion_Project_Compliance_Document.pdf)
 
 ### 🛰️ ISRO IIRS OpenCourseWare
@@ -35,3 +34,4 @@
 *   **National Institute of Securities Markets (NISM):** [View NISM Financial Literacy Validation](nism-financial-literacy.pdf)
 *   **Tata Innovation Competition Certificate:** [View Challenge Track Participation Certificate](tata-innovation-challenge.pdf)
 *   **Bangalore Tech Summit Delegate Certificate:** [View Official Summit Business Delegate Validation](bangalore-tech-summit.pdf)
+Use code with caution.
