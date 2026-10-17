@@ -12,7 +12,7 @@
 *   **Manipal Campus Immersion:** [View Manipal BMC Track Certificate](manipal-bmc-certificate.pdf)
 
 ### 🛠️ Google Project Management - Ongoing
-*   **JIRA Agile/Scrum Board Infrastructure:** [https://neetajaylaxmi9329.atlassian.net/jira/software/projects/SCRUM/boards/1/timeline?atlOrigin=eyJpIjoiYTI2NDYzZmY0OTcxNDdhYzhkYzU1ZmJmZmJiY2JiMzgiLCJwIjoiaiJ9](https://atlassian.net)
+*   **JIRA Agile/Scrum Board Infrastructure:** [https://neetajaylaxmi9329.atlassian.net/jira/software/projects/SCRUM/boards/1?filter=&groupBy=none&atlOrigin=eyJpIjoiOTZlYzBjMDM4NDE4NDI5N2JjOGQ1NmQ2YzNhY2VjYmMiLCJwIjoiaiJ9](https://atlassian.net)
 *   **CERN Enterprise Power BI Executive Dashboard:** [Download Raw PBIX Project Database File](cern-enterprise-dashboard.pbix)
 
 #### 🖥️ Dashboard Visualization Preview:
