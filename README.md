@@ -9,7 +9,7 @@
 ## 📊 1. Applied Project Tracks
 
 ### 📈 Bloomberg Market Concepts (BMC)
-*   **Certificate PDF:** (bloomberg-bmc.pdf)
+*  **Certificate PDF:** [View Bloomberg BMC Certificate](bloomberg-bmc.pdf)
 *   **Manipal Campus Immersion:** [View Manipal BMC Track Certificate](manipal-bmc-certificate.pdf)
 
 ### 🛠️ Google Project Management - Ongoing
