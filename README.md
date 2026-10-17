@@ -14,7 +14,7 @@
 
 ### 🛠️ Google Project Management - Ongoing
 *   **JIRA Agile/Scrum Board Infrastructure:** [Access Live JIRA Sprint Board & Backlog Timeline](https://neetajaylaxmi9329.atlassian.net/jira/software/projects/SCRUM/boards/1/timeline?atlOrigin=eyJpIjoiYTI2NDYzZmY0OTcxNDdhYzhkYzU1ZmJmZmJiY2JiMzgiLCJwIjoiaiJ9)
-*   **CERN Enterprise Power BI Executive Dashboard:** [View CERN Power BI Dashboard Interactive Layout](Metroville Rail Expansion KPI_Framework.docx)
+*   **CERN Enterprise Power BI Executive Dashboard:** [View CERN Power BI Dashboard Interactive Layout]()
 
 ### 🚊 Siemens Mobility Job Simulation (Forage)
 *   **Certificate PDF:** [View Siemens Mobility Completion Certificate](siemens-mobility-forage.pdf)
