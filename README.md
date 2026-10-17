@@ -1,7 +1,7 @@
 # 🏅 Project & Certification Portfolio
 
 *   **Candidate:** Tushar Balraj Dengle
-*   **Contact:** neetajaylaxmi9329@gmail.com
+*   **Contact:** tushardengle1@gmail.com
 
 ---
 
